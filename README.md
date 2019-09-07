@@ -14,8 +14,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # :family: Team
 
-* **Aravind V. Nair** - *Front-end, Testing, Back-end and Security* - [AravindVNair99](https://github.com/aravindvnair99)
-* **Abhishek Sai** - *Front-end, Testing and Back-end* - [Abhishek-Sai](https://github.com/Abhishek-Sai)
+* **Aravind V. Nair** - [AravindVNair99](https://github.com/aravindvnair99)
 
 See the full list of [contributors](https://github.com/aravindvnair99/ECCIF-Amrita-Bengaluru/graphs/contributors) who participated in this project and statistics.
 
