@@ -1,4 +1,4 @@
-# ECCIF Amrita Bengaluru
+# ECCIF Amrita Bengaluru ![](https://komarev.com/ghpvc/?username=AravindVNair99&label=Views)
 
 Official source code of ECCIF Amrita Bangalore website.
 
